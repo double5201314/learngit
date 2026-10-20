@@ -3,4 +3,6 @@ Git is free software.
 
 create a new branch dev 2026/10/20
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
+
